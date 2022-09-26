@@ -13,7 +13,6 @@
 
 **I am performing this code review using the following parameters**
 
-- Installing the HTML/CSS linters to check if there's linters error
 - Accessing the HTML semantic tags if they are correctly used
 - Accessing the Github workflow
 - And checking the CSS best practises as well.
