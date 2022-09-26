@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Microverse Linters Project
+# Microverse Project Review
 
 > This is a review on a project which I worked on earlier on before I was admitted into microverse.
 
